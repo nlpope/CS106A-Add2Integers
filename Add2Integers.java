@@ -14,6 +14,8 @@ import acm.program.*;
 public class Add2Integers extends ConsoleProgram {
 	
 	public void run(){ promptUser(); }
+	
+	
 	private void promptUser()
 	{
 		println("This program adds two integers.");
